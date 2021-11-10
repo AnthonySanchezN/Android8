@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Actividad8</string>
+    <string name="col1">Nombre</string>
+    <string name="col2">Telefono</string>
+    <string name="row1Name">Anthony</string>
+    <string name="row1Number">6672339667</string>
+    <string name="row2Name">Gabriela</string>
+    <string name="row2Number">66723975217</string>
+    <string name="row3Name">Jeraldynee</string>
+    <string name="row3Number">6674126181</string>
+</resources>
